@@ -1,11 +1,5 @@
 # 🐍 Snake-IA
 **Agente de Búsqueda para Resolver Snake**
-
-**Integrantes:** José Briones
-**Carrera:** Ingeniería en Informática  
-**Sección:** TI2082/D-IEI-N8-P1-C2/D Valdivia IEI  
-**Asignatura:** Aplicaciones de Inteligencia Artificial  
-**Fecha:** 24/09/2025  
  
 Este repositorio contiene una implementación del clásico juego **Snake (10x10, máx. 35 manzanas)** junto con dos agentes:
 
